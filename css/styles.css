@@ -8,18 +8,39 @@ body {
 .box {
 	background-color: #ECECEA;
 	}
+	
+	
  p {
   padding: 20px;
  }
  
- .ttl {
+ h1 {
  
-  font-family: fantasy;
   text-align: center;
  }
  
- .prjt {
-  background-color: #F3FAB6;
-  
+ h2{
+ text-align: center;
+ }
  
+
+ 
+ .profile_pic {
+ 
+    margin: 0 auto;
+    display: block;
+ 	width: 250px;
+ 	height: 253px;
+ 	border: 3px solid black;
+ }
+ 
+ .skill_list {
+  margin: 20px;
+  border: gray solid 5px;
+  padding: 10px;
+  background-color: #D3D3D3;
+ }
+ 
+ .text_center {
+	text-align: center;
  }
