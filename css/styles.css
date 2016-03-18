@@ -1,3 +1,5 @@
+
+
 body {
 	padding-top: 70px;
 	background-color: green;
@@ -11,7 +13,13 @@ body {
  }
  
  .ttl {
- text-align: center;
+ 
+  font-family: fantasy;
+  text-align: center;
  }
  
+ .prjt {
+  background-color: #F3FAB6;
+  
  
+ }
